@@ -1,10 +1,9 @@
-# 💫 About Me:
-🎓 Final year Computer science student at Cegep Limoilou
-💻 Internship at Groupe Mundial https://www.groupemundial.com/
-✨ Trying to never stop learning
-⚽ Cf Montreal 🔵⚪
-⚽ Ac Milan    🔴⚪
-
+# 💫 About Me:<br>
+🎓 Final year Computer science student at Cegep Limoilou<br>
+💻 Internship at Groupe Mundial https://www.groupemundial.com/<br>
+✨ Trying to never stop learning<br>
+⚽ Cf Montreal 🔵⚪ Ac Milan 🔴⚪<br>
+<br>
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 # 📊 GitHub Stats:

@@ -1,6 +1,5 @@
 # 💫 About Me:<br>
-🎓 Final year Computer science student at Cegep Limoilou<br>
-💻 Internship at Groupe Mundial https://www.groupemundial.com/<br>
+💻 Employee at Groupe Mundial https://www.groupemundial.com/<br>
 ✨ Trying to never stop learning<br>
 ⚽ Cf Montreal 🔵⚪ Ac Milan 🔴⚪<br>
 <br>
